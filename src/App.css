@@ -1,0 +1,12 @@
+.main {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column ;
+
+  align-items: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.687),rgba(0, 0, 0, 0.048)) ,url("comonents/a.jpg")no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}

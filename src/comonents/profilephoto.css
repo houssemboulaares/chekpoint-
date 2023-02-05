@@ -1,0 +1,9 @@
+.img{
+     width:450px;
+     height: 450px;
+    
+}
+.cc{
+    display: flex;
+    justify-content: center;
+}
